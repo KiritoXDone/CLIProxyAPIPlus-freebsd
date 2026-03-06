@@ -13,6 +13,7 @@ Get the latest binary from [Releases](../../releases).
 ```bash
 # Download the binary (replace vX.X.X with the actual version)
 wget https://github.com/KiritoXDone/gpt-load-freebsd/releases/latest/download/cli-proxy-api-plus-freebsd-amd64
+# (Repository name remains historical: gpt-load-freebsd)
 
 # Make it executable
 chmod +x cli-proxy-api-plus-freebsd-amd64
